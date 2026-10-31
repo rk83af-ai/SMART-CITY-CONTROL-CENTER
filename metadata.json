@@ -1,0 +1,6 @@
+{
+  "name": "CityPulse AI",
+  "description": "Smart City Control Command Center for Greater Noida — centralized municipal operations, real-time GIS incident intelligence, and AI-guided emergency dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
